@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT sensor library
+MFRC522
+ArduinoJson
+LiquidCrystal I2C
+PubSubClient
+RTClib
+ESP32Servo
